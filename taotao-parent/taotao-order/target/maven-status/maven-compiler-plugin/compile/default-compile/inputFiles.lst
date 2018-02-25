@@ -1,0 +1,8 @@
+D:\workSpace\java\taotao\taotao-parent\taotao-order\src\main\java\com\taotao\order\pojo\OrderInfo.java
+D:\workSpace\java\taotao\taotao-parent\taotao-order\src\main\java\com\taotao\order\service\OrderService.java
+D:\workSpace\java\taotao\taotao-parent\taotao-order\src\main\java\com\taotao\order\dao\JedisClient.java
+D:\workSpace\java\taotao\taotao-parent\taotao-order\src\main\java\com\taotao\order\controller\OrderController.java
+D:\workSpace\java\taotao\taotao-parent\taotao-order\src\main\java\com\taotao\order\scheduler\Scheduler1.java
+D:\workSpace\java\taotao\taotao-parent\taotao-order\src\main\java\com\taotao\order\service\impl\OrderServiceImpl.java
+D:\workSpace\java\taotao\taotao-parent\taotao-order\src\main\java\com\taotao\order\dao\impl\JedisClientPool.java
+D:\workSpace\java\taotao\taotao-parent\taotao-order\src\main\java\com\taotao\order\dao\impl\JedisClientCluster.java
